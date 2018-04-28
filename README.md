@@ -1,4 +1,5 @@
 # gitskills
 gitskills
-Creating a new branch is quick and simple.
+Creating a  free new branch is quick and simple.
 merge
+merge	
